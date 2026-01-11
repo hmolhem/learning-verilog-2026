@@ -1,0 +1,16 @@
+# Ignore Verilog simulation files
+*.vcd
+*.vvp
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore any other files you want to exclude
