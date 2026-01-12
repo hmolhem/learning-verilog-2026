@@ -1,7 +1,7 @@
 # learning-verilog-2026 🚀
 
-[![Verilog](img.shields.io)](en.wikipedia.org)
-[![License: MIT](img.shields.io)](opensource.org)
+[![Verilog](https://img.shields.io/badge/HDL-Verilog-blue)](https://en.wikipedia.org/wiki/Verilog)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
 A comprehensive digital booklet and practice repository for mastering **Verilog HDL**. This project documents my learning journey, featuring modular exercises, simulation workflows, and practical experience logs for modern hardware design.
 
